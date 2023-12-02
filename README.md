@@ -4,7 +4,7 @@ Solving complex OOP problems in Python
 Objectives 
 Development of Python modules to solve complex problems
 • Develop Python modules and classes
-• Use test-driven development
+• Use test-driven development and unit-testing
 • Learn how to work with exceptions
 • Familiarize with special libraries e.g. numpy, matplotlib
 
