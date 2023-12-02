@@ -24,5 +24,6 @@ warning should be generated
 PROBLEM SPECIFICATION
 A math teacher needs a program that helps students perform different vector 
 operations.
+The program manages several vectors and allows different operations (class VectorRepository).
 
 All the additional documentation is provided inside the python modules.
