@@ -27,3 +27,4 @@ operations.
 The program manages several vectors and allows different operations (class VectorRepository).
 
 All the additional documentation is provided inside the python modules.
+THE MAIN MODULE should be run in order to start the application.
